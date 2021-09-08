@@ -1,0 +1,23 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas del sistema de tienda",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress run"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "testing"
+  ],
+  "author": "Leandro",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leandroadiez/tiendaCypress"
+  }
+}
