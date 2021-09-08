@@ -1,0 +1,217 @@
+{
+  "home": {
+    "Title": "Bienvenido a {param}"
+  },
+  "sidebar": {
+    "Dashboard": "Inicio",
+    "Infected": "Infectados",
+    "MedicalHistory": "Historia Clínica",
+    "ActionPlans": "Planes de Acción"
+  },
+  "header": {
+    "SignOut": "Cerrar Sesión",
+    "Settings": "Configuración"
+  },
+  "actions": {
+    "Save": "Guardar",
+    "Cancel": "Cancelar",
+    "Close": "Cerrar",
+    "Update": "Actualizar",
+    "Delete": "Eliminar",
+    "Reset": "Resetear",
+    "Search": "Buscar",
+    "GoBack": "Atrás",
+    "Continue": "Continuar"
+  },
+  "prepositions": {
+    "From": "Desde",
+    "To": "Hasta"
+  },
+  "dashboard": {
+    "Title": "Dashboard"
+  },
+  "components": {
+    "DataTable": {
+      "Summary": "Mostrando {currentPage} al {totalPages} de {totalRows} registros",
+      "Filter": "Filtrar"
+    },
+    "Modal": {
+      "DeleteTitle": "Eliminar",
+      "DeleteChildren": "Desea eliminar el registro?",
+      "DeletePrimaryButtonName": "Eliminar",
+      "DeleteSecundaryButtonName": "Cancelar"
+    },
+    "Checkbox": {
+      "Checked": "Si",
+      "Unchecked": "No"
+    },
+    "Paginator": {
+      "ItemsByPage": "Items por página",
+      "Summary": "{firstPageItemNumber} - {lastPageItemNumber} of {totalItems}"
+    },
+    "Notification": {
+      "Saved": "Guardado satisfactoriamente!"
+    }
+  },
+  "login": {
+    "Username": "Usuario",
+    "Password": "Constraseña",
+    "ForgotPassword": "¿Olvidaste tu contraseña?",
+    "SignIn": "Ingresar",
+    "RetryReset": "Resetear contraseña"
+  },
+  "forgotPassword": {
+    "Username": "Usuario",
+    "Password": "Contraseña",
+    "RepeatPassword": "Repetir Contraseña",
+    "EnterUsername": "Ingresa tu usuario y te enviaremos un correo con un link para recuperar tu contraseña. Por favor, recuerda revisar tu carpeta de Correo no deseado.",
+    "EnterNewPassword": "Por favor, ingresa una nueva contraseña y confirmala luego.",
+    "GoBackToLogin": "Volver a iniciar sesión",
+    "Send": "Enviar"
+  },
+  "disclaimer": {
+    "Title": "Descargo de Responsabilidad",
+    "Content": "Se asume que usted ha dado su consentimiento para que la información de su historia clínica sea confiada a la compañía Motiv, quien velará por su secreto y correcto uso, en benficio de usted mismo.\n\nSe estima que los hechos y la información ingresados por usted mismo, son precisos al momento en el que fueron cargados en este Sitio Web.\nSi usted tiene dudas sobre su historia clínica, quiere obtener una copia o notase algo que debiera ser modificado, por favor contáctese con nosotros:\n\n",
+    "ContactMail": "soporte@motiv.live"
+  },
+  "tracker": {
+    "Values": {
+      "None": "Ninguno",
+      "Low": "Bajo",
+      "Medium": "Medio",
+      "High": "Alto",
+      "VeryHigh": "Muy Alto"
+    },
+    "Title": "Test COVID-19",
+    "TemperatureScale": "C",
+    "TemperatureDescription": "Por favor, indícanos cuál es tu temperatura corporal",
+    "BreathingDescription": "¿Sientes algún grado de dificultad en tu respiración?",
+    "OxygenDescription": "¿Sientes algún grado de saturación de oxigeno?",
+    "CoughDescription": "Por favor, indícanos cuál es tu nivel de tos",
+    "SmellDescription": "¿Sientes algún grado de perdida de olfato?",
+    "FeelingDescription": "¿Cómo te sientes hoy?",
+    "DefaultFeelingsTexts7": "Contento",
+    "DefaultFeelingsTexts6": "Valorado",
+    "DefaultFeelingsTexts5": "Motivado",
+    "DefaultFeelingsTexts4": "Relajado",
+    "DefaultFeelingsTexts3": "Estresado",
+    "DefaultFeelingsTexts2": "Frustrado",
+    "DefaultFeelingsTexts1": "Decepcionado",
+    "DefaultFeelingsTexts0": "Enojado",
+    "SkipModal": {
+      "Question": "¿Cómo te sientes hoy?",
+      "Description": "Realiza el Test y comparte tus resultados \ndiariamente para ayudarnos a mantener un espacio saludable de trabajo",
+      "DoTest": "Hacer Test",
+      "Later": "Tal Vez Luego"
+    },
+    "Results": {
+      "NoRisk": "## ¡Gracias {name} por realizar tu test hoy!\n ### **No tienes riesgo** de poseer COVID-19\n ### Que tengas un buen día de trabajo ",
+      "Risk": "## ¡Gracias {name} por realizar tu test hoy!\n ### **Tus indicadores están sobre los límites**\n ### Por favor, aguarda en tu casa y serás contactado\n por tu empleador",
+      "Doubtful": "## ¡Gracias {name} por realizar tu test hoy!\n### **Tienes riesgo** de poseer COVID-19\n ### Por favor, aguarda en tu casa y serás contactado\n ### por tu empleador"
+    }
+  },
+  "settings": {
+    "Sidebar": {
+      "Profile": "Perfil",
+      "Language": "Lenguaje",
+      "ChangePassword": "Cambiar Contraseña"
+    },
+    "ChangePassword": {
+      "Title": "Cambiar contraseña",
+      "ActualPassword": "Actual password",
+      "NewPassword": "Nueva contraseña",
+      "RepeatNewPassword": "Repetir nueva contraseña"
+    },
+    "Language": {
+      "Title": "Lenguaje",
+      "Language": "Lenguaje"
+    }
+  },
+  "errors": {
+    "UnknownError": "Error desconocido",
+    "IsRequired": "{field}  es requerido",
+    "MinLengthIs": "{field} require como mínimo {length} caracteres",
+    "MaxLengthIs": "{field} puede tener como máximo {lenght} caracteres",
+    "IsInvalid": "{field}  es inválido",
+    "IsNumeric": "{field}  es númerico",
+    "PasswordDontMatch": "Las contraseñas no coinsiden"
+  },
+  "languages": {
+    "English": "Inglés",
+    "Spanish": "Español"
+  },
+  "actionPlans": {
+    "CreatedDate": "Fecha: ",
+    "WrittenBy": "Redactado por: ",
+    "NoArticles": "No hay artículos que mostrar",
+    "NewArticle": "Nuevo Artículo",
+    "Form": {
+      "Publish": "Publicar",
+      "Title": "Título",
+      "Description": "Descripción",
+      "AttachFile": "Adjuntar Archivo"
+    },
+    "Modal": {
+      "DeleteArticleTitle": "Eliminar Artículo",
+      "DeleteArticleText": "¿Desea eliminar el Artículo {article} de manera permanente?"
+    }
+  },
+  "infected": {
+    "DataTable": {
+      "Title": "Empleados Infectados",
+      "NoData": "No existen Empleados Infectados que mostrar",
+      "Fields": {
+        "EmployeeName": "Nombre y Apellido",
+        "Condition": "Estado",
+        "Location": "Lugar",
+        "InstitutionAddress": "Dirección",
+        "InstiutionTelephone": "Contacto",
+        "Doctor": "Médico",
+        "MedicalHistory": "Historia Clínica",
+        "LastDiagnosis": "Último Diagnóstico"        
+      }
+    }
+  },
+  "latestTests": {
+    "Title": "Últimos Estúdios",
+    "SeeResults": "Ver Resultados",
+    "Table": {
+      "Date": "Fecha",
+      "Name": "Nombre",
+      "Description": "Descripción",
+      "AttachedFiles": "Adjuntos",
+      "NoData": "No existen Estúdios que mostrar"
+    }
+  },
+  "medicalHistory": {
+    "InfectedLink": "Infectados",
+    "TestLink": "Mi Test COVID-19",
+    "DataTable": {
+      "Title": "Empleados",
+      "NoData": "No existen Empleados que mostrar",
+      "Fields": {
+        "EmployeeName": "Nombre y Apellido",
+        "TestStatus": "Test",
+        "InfectedStatus": "Infectado",
+        "Risk": "Riesgo",
+        "Temperature": "Temperatura",
+        "RespiratoryDistress": "Respiración Dificultosa",
+        "MuscularFatigue": "Fatiga Muscular",
+        "CoughSeverity": "Severidad de Tos",
+        "SmellLoss": "Perdida de Olfato",
+        "MedicalHistory": "Historia Clínica",
+        "LastDiagnosis": "Último Diagnóstico"
+      }
+    }
+  },
+  "conditions": {
+    "Critical": "Muy Grave",
+    "Serious": "Grave",
+    "Stable": "Estable"
+  },
+  "locations": {
+    "ICU": "UTI",
+    "NonICU": "Sala General",
+    "Home": "Domicilio"
+  }
+  }

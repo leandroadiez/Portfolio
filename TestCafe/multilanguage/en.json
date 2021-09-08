@@ -1,0 +1,217 @@
+{
+  "home": {
+    "Title": "Welcome to {param}"
+  },
+  "sidebar": {
+    "Dashboard": "Home",
+    "Infected": "Infected",
+    "MedicalHistory": "Medical History",
+    "ActionPlans": "Action Plans"
+  },
+  "header": {
+    "SignOut": "Sign Out",
+    "Settings": "Settings"
+  },
+  "actions": {
+    "Save": "Save",
+    "Cancel": "Cancel",
+    "Close": "Close",
+    "Update": "Update",
+    "Delete": "Delete",
+    "Reset": "Reset",
+    "Search": "Search",
+    "GoBack": "Back",
+    "Continue": "Continue"
+  },
+  "prepositions": {
+    "From": "From",
+    "To": "To"
+  },
+  "dashboard": {
+    "Title": "Dashboard"
+  },
+  "components": {
+    "DataTable": {
+      "Summary": "Showing {currentPage} to {totalPages} of {totalRows} entries",
+      "Filter": "Filter"
+    },
+    "Modal": {
+      "DeleteTitle": "Delete",
+      "DeleteChildren": "Do you want to delete this record?",
+      "DeletePrimaryButtonName": "Delete",
+      "DeleteSecundaryButtonName": "Close"      
+    },
+    "Checkbox": {
+      "Checked": "Yes",
+      "Unchecked": "No"
+    },
+    "Paginator": {
+      "ItemsByPage": "Items by page",
+      "Summary": "{firstPageItemNumber} - {lastPageItemNumber} of {totalItems}"
+    },
+    "Notification": {
+      "Saved": "Saved successfully!"
+    }
+  },
+  "login": {
+    "Username": "Username",
+    "Password": "Password",
+    "ForgotPassword": "Forgot password? ",
+    "SignIn": "Sign In",
+    "RetryReset": "Reset password"
+  },
+  "forgotPassword": {
+    "Username": "Username",
+    "Password": "Password",
+    "RepeatPassword": "Repeat password",
+    "EnterUsername": "Enter your username and will send you an email with a link to recover your password. Please, remember check your Spam folder.",
+    "EnterNewPassword": "Please, enter a new password.",
+    "BackToLogin": "Back To Login",
+    "Send": "Send"
+  },
+  "disclaimer": {
+    "Title": "Disclaimer",
+    "Content": "It is assumed, that you have given your consent for the information in your medical history to be entrusted to the Motiv company, who will ensure its secrecy and correct use for the benefit of yourself.\n\nIt is estimated that the facts and information entered by yourself, they are accurate at the time they were uploaded to this Website.\nIf you have questions about your medical record, want to obtain a copy or notice something that should be modified, please contact us:\n\n",
+    "ContactMail": "soporte@motiv.live"
+  },
+  "tracker": {
+    "Values": {
+      "None": "None",
+      "Low": "Low",
+      "Medium": "Medium",
+      "High": "High",
+      "VeryHigh": "Very High"
+    },
+    "Title": "Test COVID-19",
+    "TemperatureScale": "F",
+    "TemperatureDescription":"Please, tell us what is your body temperature",
+    "BreathingDescription":"Do you feel any degree of difficulty in your breathing?",
+    "OxygenDescription":"Do you feel any degree of oxygen saturation?",
+    "CoughDescription":"Please tell us what is your cough level",
+    "SmellDescription":"Do you feel any degree of loss of smell?",
+    "FeelingDescription": "How are you feeling today?",
+    "DefaultFeelingsTexts7": "Contento",
+    "DefaultFeelingsTexts6": "Valorado",
+    "DefaultFeelingsTexts5": "Motivado",
+    "DefaultFeelingsTexts4": "Relajado",
+    "DefaultFeelingsTexts3": "Estresado",
+    "DefaultFeelingsTexts2": "Frustrado",
+    "DefaultFeelingsTexts1": "Decepcionado",
+    "DefaultFeelingsTexts0": "Enojado",
+    "SkipModal": {
+      "Question": "How are you feeling today?",
+      "Description": "Complete the Test and share your results daily, to help us to maintain a healthy workspace",
+      "DoTest": "Do Test",
+      "Later": "Maybe Later"
+    },
+    "Results": {
+      "NoRisk": "¡Gracias {name} por realizar tu test hoy!\n No tienes riesgo de poseer COVID-19\n Que tengas un buen día de trabajo ",
+      "Risk": "¡Gracias {name} por realizar tu test hoy!\n Tus indicadores están sobre los límites\nPor favor, aguarda en tu casa y serás contactado\n por tu empleador",
+      "Doubtful": "¡Gracias {name} por realizar tu test hoy!\nTienes riesgo de poseer COVID-19\nPor favor, aguarda en tu casa y serás contactado\n por tu empleador"
+    }
+  },
+  "settings": {
+    "Sidebar": {
+      "Profile": "Profile",
+      "Language": "Language",
+      "ChangePassword": "Change Password"
+    },
+    "ChangePassword": {
+      "Title": "Change password",
+      "ActualPassword": "Actual password",
+      "NewPassword": "New password",
+      "RepeatNewPassword": "Repeat new password"
+    },
+    "Language": {
+      "Title": "Language",
+      "Language": "Language"
+    }
+  },
+  "errors": {
+    "UnknownError": "Unknown error",
+    "IsRequired": "{field} es required",
+    "MinLengthIs": "{field} min length is {length}",
+    "MaxLengthIs": "{field} max length is {length}",
+    "IsInvalid": "{field} is invalid",
+    "IsNumeric": "{field} is numeric",
+    "PasswordDontMatch": "Passwords don't match"
+  },
+  "languages": {
+    "English": "English",
+    "Spanish": "Spanish"
+  },
+  "actionPlans": {
+    "CreatedDate": "Date: ",
+    "WrittenBy": "Written by: ",
+    "NoArticles": "There is no articles to show",
+    "NewArticle": "New Article",
+    "Form": {
+      "Publish": "Publish",
+      "Title": "Title",
+      "Description": "Description",
+      "AttachFile": "Attach File"
+    }
+  },
+  "infected": {
+    "DataTable": {
+      "Title": "Infected Employees",
+      "NoData": "There is no Infected Employees to show",
+      "Fields": {
+        "EmployeeName": "Name and Lastname",
+        "Condition": "Condition",
+        "Location": "Location",
+        "InstitutionAddress": "Address",
+        "InstiutionTelephone": "Contact",
+        "Doctor": "Doctor",
+        "MedicalHistory": "Medical History",
+        "LastDiagnosis": "Last Diagnosis"
+      }
+    }
+  },
+  "latestTests": {
+    "Title": "Latest Tests",
+    "SeeResults": "See Results",
+    "Table": {
+      "Date": "Date",
+      "Name": "Name",
+      "Description": "Description",
+      "AttachedFiles": "Attached",
+      "NoData": "There is no Tests to show"
+    },
+    "Modal": {
+      "DeleteArticleTitle": "Delete Article",
+      "DeleteArticleText": "Do you wish to delete {article} article permanently?"
+    }
+  },
+  "medicalHistory": {
+    "InfectedLink": "Infected",
+    "TestLink": "My COVID-19 Test",
+    "DataTable": {
+      "Title": "Employees",
+      "NoData": "There is no Employees to show",
+      "Fields": {
+        "EmployeeName": "Name and Lastname",
+        "TestStatus": "Test",
+        "InfectedStatus": "Infected",
+        "Risk": "Risk",
+        "Temperature": "Temperature",
+        "RespiratoryDistress": "Respiratory Distress",
+        "MuscularFatigue": "Muscular Fatigue",
+        "CoughSeverity": "Cough Severity",
+        "SmellLoss": "Smell Loss",
+        "MedicalHistory": "Medical History",
+        "LastDiagnosis": "Last Diagnosis"
+      }
+    }
+  },
+  "conditions": {
+  "Critical": "Critical",
+  "Serious": "Serious",
+  "Stable": "Stable"
+  },
+  "locations": {
+    "ICU": "ICU",
+    "NonICU": "non-ICU",
+    "Home": "Home"
+  }
+}
